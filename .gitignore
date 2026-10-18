@@ -1,0 +1,13 @@
+node_modules/
+dist/
+dist-electron/
+release/
+.sites-runtime/
+test-results/
+*.log
+.env*
+coverage/
+*.tsbuildinfo
+odak.json*
+.DS_Store
+Thumbs.db
